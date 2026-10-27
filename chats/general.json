@@ -26,5 +26,12 @@
     "text": "Hello",
     "mediaUrl": null,
     "sentAt": "2026-10-27T17:28:45.249Z"
+  },
+  {
+    "id": 1793122185090,
+    "user": "User970",
+    "text": "Hi",
+    "mediaUrl": null,
+    "sentAt": "2026-10-27T17:29:45.090Z"
   }
 ]
