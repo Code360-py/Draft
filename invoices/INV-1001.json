@@ -1,0 +1,18 @@
+{
+  "invNumber": "INV-1001",
+  "currencySymbol": "₹",
+  "brandTagline": "Original Creative Studio",
+  "invDate": "2026-10-27",
+  "invDueDate": "2026-10-27",
+  "fromDetails": "Creative Tech Studio\ncontact@example.com\nChennai, India",
+  "toDetails": "Acme Corp Ltd.\nbilling@acme.com\nBangalore, India",
+  "taxRate": 10,
+  "items": [
+    {
+      "desc": "Spare",
+      "qty": 1,
+      "price": 200
+    }
+  ],
+  "updatedAt": "2026-10-27T16:50:59.729Z"
+}
