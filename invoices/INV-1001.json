@@ -1,18 +1,26 @@
 {
   "invNumber": "INV-1001",
   "currencySymbol": "₹",
-  "brandTagline": "Original Creative Studio",
+  "brandName": "Creative Engine Ltd.",
+  "brandTagline": "Digital Solutions & Design Architecture",
   "invDate": "2026-10-27",
   "invDueDate": "2026-10-27",
-  "fromDetails": "Creative Tech Studio\ncontact@example.com\nChennai, India",
-  "toDetails": "Acme Corp Ltd.\nbilling@acme.com\nBangalore, India",
+  "fromDetails": "Creative Tech Labs Inc.\ncontact@creativelabs.io\nChennai, TN, India",
+  "toDetails": "Horizon Enterprises LLC\nbilling@horizon.com\nCalifornia, USA",
   "taxRate": 10,
   "items": [
     {
-      "desc": "Spare",
+      "id": 1,
+      "desc": "Cloud Architecture Design & Review",
       "qty": 1,
-      "price": 200
+      "price": 450
+    },
+    {
+      "id": 2,
+      "desc": "Fullstack Dashboard Development",
+      "qty": 2,
+      "price": 250
     }
   ],
-  "updatedAt": "2026-10-27T16:50:59.729Z"
+  "savedAt": "2026-10-27T16:57:49.198Z"
 }
